@@ -1,0 +1,10 @@
+{
+    "name": "houdunwang/demo",
+    "description": "a test php project",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "^3.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
