@@ -6,7 +6,6 @@
         "houdunwang/hdphp": "^3.0"
     },
     "license": "MIT",
-    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "core/functions.php"
